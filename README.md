@@ -34,5 +34,5 @@
 	</body>
 </html>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gq&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rh4r&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rh4r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
