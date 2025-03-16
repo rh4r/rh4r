@@ -9,7 +9,7 @@
 				 alt=""
 			>
 		<h1>
-			Hello, i'm gq
+			Hello, i'm rher
 			<br>
 				I'm an intermediate - advanced Luau scripter and pentester.
 			<br>
@@ -27,7 +27,7 @@
 		</p>
 		<p>
 			<b>
-				pls don't skid my code dm me ,@sulfu3r on discord, and i will explain a function to you. :)
+				pls don't skid my code dm me, @rh3r on discord, and i will explain a function to you. :)
 			</b>
 		</p>
 	</center>
