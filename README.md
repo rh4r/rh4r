@@ -9,7 +9,7 @@
 				 alt=""
 			>
 		<h1>
-			Hello, i'm sulfur.
+			Hello, i'm gq
 			<br>
 				I'm an intermediate - advanced Luau scripter and pentester.
 			<br>
@@ -34,5 +34,5 @@
 	</body>
 </html>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulfu3r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfu3r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gq&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
