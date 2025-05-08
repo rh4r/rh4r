@@ -11,9 +11,14 @@
 		<h1>
 			Hello, i'm rher
 			<br>
-				I'm an intermediate - advanced Luau scripter and pentester.
+				I'm a 17yo programmer based within the UK.
 			<br>
 		</h1>
+		<h2>
+						I'm primarily a intermediate - advanced Luau scripter and pentester however, I'm also familiar with:
+			<br>
+			C, C++, Python, HTML, CSS, SQL
+		<h2>
 		<p>
 			<h1> Info on me: </h1>
 			<b> OPEN SOURCE ENTHUSIAST! </b>
