@@ -20,7 +20,7 @@
 			<br>
 			I haven't made anything particularrly special, yet if ur interested, here are some links to my old projects I created:
 			<br>
-			450K+ views on https://rscripts.net/@digit
+			500K+ views on https://rscripts.net/@digit
 			<br>
 			60K+ Views on https://pastebin.com/u/diglt
 			<br>
