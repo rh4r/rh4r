@@ -27,7 +27,7 @@
 			<br>
 			500K+ views on https://rscripts.net/@digit
 			<br>
-			70K+ Views on https://pastebin.com/u/diglt
+			80K+ Views on https://pastebin.com/u/diglt
 			<br>
 		</p>
 		<p>
