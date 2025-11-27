@@ -17,7 +17,7 @@
 		<h2>
 						I'm primarily a intermediate - advanced Luau scripter and pentester however, I'm also familiar with:
 			<br>
-			C, C++, Python, HTML, CSS, SQL
+			C, Typescript, Python,
 		<h2>
 		<p>
 			<h1> Info on me: </h1>
