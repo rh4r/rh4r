@@ -11,7 +11,7 @@
 		<h1>
 			Hello, i'm rher
 			<br>
-				I'm a 17yo programmer based within the UK.
+				I'm a 18yo programmer based within the UK.
 			<br>
 		</h1>
 		<h2>
