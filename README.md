@@ -32,12 +32,9 @@
 		</p>
 		<p>
 			<b>
-				pls don't skid my code dm me, @rh3r on discord, and i will explain a function to you. :)
+				pls don't skid my code dm me, @sinfuloni on discord, and i will explain a function to you. :)
 			</b>
 		</p>
 	</center>
 	</body>
 </html>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rh4r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rh4r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
