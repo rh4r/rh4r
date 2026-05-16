@@ -17,7 +17,7 @@
 		<h2>
 						I'm primarily a intermediate - advanced Luau scripter and pentester however, I'm also familiar with:
 			<br>
-			C, Typescript, Python,
+			C, Typescript, Python.
 		<h2>
 		<p>
 			<h1> Info on me: </h1>
@@ -25,9 +25,9 @@
 			<br>
 			I haven't made anything particularrly special, yet if ur interested, here are some links to my old projects I created:
 			<br>
-			500K+ views on https://rscripts.net/@digit
+			550K+ views on https://rscripts.net/@digit
 			<br>
-			80K+ Views on https://pastebin.com/u/diglt
+			10K+ Views on https://pastebin.com/u/diglt
 			<br>
 		</p>
 		<p>
