@@ -2,14 +2,8 @@
 <html>
 	<body>
 	<center>
-			<img 
-				 src="BETTER QUAL CYN.gif"
-				 height="450"
-				 width="450"
-				 alt=""
-			>
 		<h1>
-			Hello, i'm rher
+			Hello, i'm rher!
 			<br>
 				I'm a 18yo programmer based within the UK.
 			<br>
@@ -21,7 +15,7 @@
 		<h2>
 		<p>
 			<h1> Info on me: </h1>
-			<b> OPEN SOURCE ENTHUSIAST! </b>
+			<b> I open source all my projects. </b>
 			<br>
 			I haven't made anything particularrly special, yet if ur interested, here are some links to my old projects I created:
 			<br>
@@ -32,7 +26,7 @@
 		</p>
 		<p>
 			<b>
-				pls don't skid my code dm me, @sinfuloni on discord, and i will explain a function to you. :)
+				pls don't skid my code dm me, @oni.gb on discord, and i will explain a function to you. :)
 			</b>
 		</p>
 	</center>
