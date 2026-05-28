@@ -9,7 +9,7 @@
 			<br>
 		</h1>
 		<h2>
-						I'm primarily a intermediate - advanced Luau scripter and pentester however, I'm also familiar with:
+						I'm primarily a intermediate Luau scripter and pentester however, I'm also familiar with:
 			<br>
 			C, Typescript, Python.
 		<h2>
