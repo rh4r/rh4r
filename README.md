@@ -26,7 +26,7 @@
 		</p>
 		<p>
 			<b>
-				pls don't skid my code dm me, @oni.gb on discord, and i will explain a function to you. :)
+				pls don't skid my code dm me, @oniheh on discord, and i will explain a function to you. :)
 			</b>
 		</p>
 	</center>
