@@ -6,7 +6,7 @@
 			hey, i'm rh4r (rher).
 		</h1>
 		<p>
-			i primarily am a luau penetration tester, but i am also building familiarity with other languages.
+			i primarily am a luau scripter and former exploit script developer, but i am also building familiarity with other languages.
 			<br>
 			some of my previous work can be seen below, or in the repos on my profile.
 			<br>
